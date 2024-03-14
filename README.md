@@ -1,14 +1,14 @@
-# Página de Reserva
+# Reservation Page
 
-Esta é uma página de reserva para um hotel com validação de datas.
+This is a reservation page for a hotel with date validation.
 
-Esta é uma atividade do curso técnico em desenvolvimento de sistemas do Senai.
+This is an activity from the technical course in systems development at Senai.
 
-Crie uma página HTML onde o usuário deve inserir o número de pessoas, que deve ser no mínimo 2, e a data não pode ser anterior à data de hoje. Se uma das duas validações não for atendida, uma mensagem deve aparecer informando o usuário sobre o problema.
+Create an HTML page where the user must input the number of people, which must be at least 2, and the date cannot be before today's date. If either validation is not met, a message should appear informing the user about the issue.
 
-**Instruções:**
+**Instructions:**
 
-- Insira o número de pessoas (mínimo de 2).
-- Selecione uma data (não anterior à data de hoje).
+- Input the number of people (minimum of 2).
+- Select a date (not before today's date).
 
-Se alguma das validações falhar, uma mensagem de erro será exibida ao usuário.
+If any of the validations fail, an error message will be displayed to the user.
